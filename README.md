@@ -7,7 +7,7 @@
 <br/>
 
 - 👩🏻‍💻 Full-stack Developer
-- Tistory https://qowjdduswkd.tistory.com/
+
 <br/>
 
 

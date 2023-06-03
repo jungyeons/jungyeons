@@ -16,7 +16,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeons&layout=compact)](https://github.com/alissa1228)
 
 
-![jungyeons's github stats](https://github-readme-stats.vercel.app/api?username=jungyeons&show_icons=true)	
 </div>
 
 

@@ -13,7 +13,7 @@
 
 ## ⚡️ Language ⚡️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeons&layout=compact)](https://github.com/alissa1228)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeons&layout=compact)](https://github.com/jungyeons)
 
 
 </div>

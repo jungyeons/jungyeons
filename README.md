@@ -16,6 +16,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeons&layout=compact)](https://github.com/jungyeons)
 
 
+## 📫 contact 📫
+
+Email : qowjdduswkd@naver.com
 </div>
 
 

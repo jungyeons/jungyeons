@@ -17,7 +17,7 @@
 
 
 ## 📫 contact 📫
-
+Blog : https://qowjdduswkd.tistory.com/
 Email : qowjdduswkd@naver.com
 </div>
 

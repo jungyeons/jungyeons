@@ -25,7 +25,7 @@
 
 ## 📫 contact 📫
 
-- Blog: [Tistory Blog](https://qowjdduswkd.tistory.com/)
+- Blog: [Study Record](https://qowjdduswkd.tistory.com/)
 - Email: [qowjdduswkd@naver.com](mailto:qowjdduswkd@naver.com)
 
 <br/>

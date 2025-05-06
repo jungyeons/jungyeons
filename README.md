@@ -18,8 +18,8 @@
 ## ⚙️ My Tech Stack ⚙️
 
 - **Frontend**: JavaScript, HTML, CSS, JSP, Vue.js
-- **Backend**: Spring Boot, FastAPI, MyBatis, JPA
-- **Database**: MySQL, PostgreSQL
+- **Backend**: Spring,Spring Boot, FastAPI, MyBatis, JPA
+- **Database**: MySQL, Oracle
 - **AI/ML**: Python, TensorFlow, PyTorch, KoBERT, YOLO, Detectron2
 - **DevOps**: Docker, GitHub, Jenkins, CI/CD
 

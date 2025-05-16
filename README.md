@@ -9,7 +9,7 @@
 - 👩🏻‍💻 Full-stack Developer
 - 💻 기술 블로그 운영: [Study Record](https://qowjdduswkd.tistory.com/)
 - 💡 주로 사용되는 기술: Java, Spring, FastAPI, MySQL, JPA, Python, AI 모델
-- 🔍 관심 분야: 중고차 데이터 분석, 차량 손상 탐지, LLM 모델 활용
+- 🔍 관심 분야: Springboot,Spring, LLM 모델 활용
 
 ## ⚡️ Language ⚡️
 

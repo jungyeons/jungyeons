@@ -7,7 +7,6 @@
 <br/>
 
 - 👩🏻‍💻 Full-stack Developer
-- 💻 기술 블로그 운영: [Study Record](https://qowjdduswkd.tistory.com/)
 - 💡 주로 사용되는 기술: Java, Spring, FastAPI, MySQL, JPA, Python, AI 모델
 - 🔍 관심 분야: Springboot,Spring, LLM 모델 활용
 

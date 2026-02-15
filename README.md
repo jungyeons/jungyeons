@@ -24,7 +24,6 @@
 
 ## 📫 contact 📫
 
-- Blog: [Study Record](https://qowjdduswkd.tistory.com/)
 - Email: [qowjdduswkd@naver.com](mailto:qowjdduswkd@naver.com)
 
 <br/>

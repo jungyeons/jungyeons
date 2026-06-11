@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BaeJungYeon&fontAlignY=40&fontSize=100&desc=Full-stack%20%2B%20Offensive%20Security&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JungYeon Bae&fontAlignY=40&fontSize=100&desc=Full-stack%20%2B%20Offensive%20Security&descAlignY=65&animation=twinkling)
 
 <br/>
 
